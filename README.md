@@ -14,4 +14,4 @@ Official Kalamine repository:
 
 ## Setup
 locale      = "fr"
-variant     = "charafr"
+variant     = "charachorder"
