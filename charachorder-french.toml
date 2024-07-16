@@ -4,7 +4,7 @@ locale      = "fr"
 variant     = "charachorder"
 description = "French (Charachorder)"
 author      = "Steeve Lefort"
-url         = "https://github.com/Nuclear-Squid/ergol"
+url         = "https://github.com/steevelefort/charachorder-french"
 geometry    = "ERGO"
 version     = "0.0.1"
 
