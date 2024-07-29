@@ -4,6 +4,7 @@ A french QWERTY layout for the Charachorder One
 **Work in progress**
 
 ![ANSI view](./view.png)
+On the right alt layer:
 ![Charachorder Alt view](./ralt-keys.png)
 ## Installation
 This is a Kalamine definition file.
